@@ -1,3 +1,3 @@
-# Wok-with-vector
+# Student List
 
 **Работа с векторами и классами**
